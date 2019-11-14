@@ -1,6 +1,7 @@
 {
   "name": "react-course",
   "version": "0.1.0",
+  "proxy": "http://api.openweathermap.org",
   "private": true,
   "dependencies": {
     "react": "^16.11.0",

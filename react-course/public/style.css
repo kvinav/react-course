@@ -45,3 +45,7 @@ input[type=checkbox] {
 input[type=checkbox]:focus {
     outline: 0;
 }
+.done{
+    color: green;
+    text-decoration: line-through;
+}
